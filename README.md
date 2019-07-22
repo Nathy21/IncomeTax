@@ -9,6 +9,7 @@ Admin user can add new State entry with corresponding tax percentage which will 
 Admin user can view the federal tax slab for filing single / Married Filing Together.
 Demo user can only calculate the tax for a given state / income / filing status.
 
+Please find the attached word document with URL information and payload for input.
 
 Health End Point: http://localhost:8080/v1.0/employment/actuator/health
 H2 Instance: http://localhost:8080/v1.0/employment/h2-console
