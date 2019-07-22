@@ -1,4 +1,4 @@
-# h2-boot
+# Income Tax 
 Spring Boot and H2 DB 
 
 Application will calculate tax for an individual based on the state of employment.
